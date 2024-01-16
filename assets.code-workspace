@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../4113sp17/startbootstrap-business-casual-gh-pages/assets"
+		},
+		{
+			"name": "zhangguoying.github.io",
+			"path": "."
+		},
+		{
+			"name": ".git",
+			"path": "../4113sp24/.git"
+		},
+		{
+			"name": ".github",
+			"path": "../4113sp24/.github"
+		},
+		{
+			"name": "css",
+			"path": "../4113sp17/startbootstrap-business-casual-gh-pages/css"
+		},
+		{
+			"name": "js",
+			"path": "../4113sp17/startbootstrap-business-casual-gh-pages/js"
+		}
+	],
+	"settings": {}
+}
